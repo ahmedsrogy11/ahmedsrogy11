@@ -1,12 +1,4 @@
-<!-- 🔹 Banner / Background Image -->
-<p align="center">
-  <img src="https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg" width="100%" />
-</p>
 
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/119703597?v=4" width="180" style="border-radius:50%" />
-</p>
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 
